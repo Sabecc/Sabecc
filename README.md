@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sabecc
 - 👀 I’m interested in learn to program
-- 🌱 I’m currently learning Java and Kotlin !
 - 📫 How to reach me send email
 
 <!---
